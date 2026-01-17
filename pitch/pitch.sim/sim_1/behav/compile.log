@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/music_box/div_table.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module div_table
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/music_box/pitch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pitch
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/music_box/pitch_div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pitch_div
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/music_box/pitch_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pitch_tb
+WARNING: [VRFC 10-986] literal value truncated to fit in 5 bits [D:/music_box/pitch_tb.v:32]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/music_box/pitch/pitch.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
