@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/barkie1/music_box/music_box/time_div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module table_div
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/barkie1/music_box/music_box/time_div_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module time_div_tb

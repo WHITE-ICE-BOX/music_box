@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/barkie1/music_box/music_box/div_table.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module div_table
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/barkie1/music_box/music_box/pitch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pitch
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/barkie1/music_box/music_box/pitch_div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pitch_div
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/barkie1/music_box/music_box/pitch_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pitch_tb
